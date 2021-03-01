@@ -44,18 +44,3 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
   {path: '/tab/user-info', component: UserInfo, name: 'UserInfo', meta: {keepAlive: true}},
   ```
 
-# keyStore签名信息
-
- keystore文件 hlscar.keystore
-
- 别名 HLSkey
-
- 密码 com.hls.easy.car
-
-# 签名
- jarsigner -verbose -keystore hls.keystore -signedjar 车租易.apk hls.apk HLSkey
-
-# 打包冲突解决
- 各项目如果安装了 com.hls.plugins.barcode 扫码插件与cordova-plugin-open-camera 媒体插件
- 两个插件之间存在一些冲突 请注释掉媒体插件 plugin.xml 第83行 <uses-feature android:name="android.hardware.camera" />
-
