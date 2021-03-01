@@ -1,0 +1,29 @@
+<svg width="750" height="1334" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect fill="#fafafa" id="canvas_background" height="1334" width="750" y="-1" x="-1" opacity="0.3"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)"  stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <rect opacity="0.7" stroke="#000" id="svg_1" height="200" width="656" y="89" x="46" stroke-width="0" fill="#DDDDDD"/>
+  <ellipse opacity="0.7" stroke="#000" ry="50" rx="50" id="svg_3" cy="408" cx="93" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <ellipse opacity="0.7" stroke="#000" ry="50" rx="50" id="svg_4" cy="408" cx="284" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <ellipse opacity="0.7" stroke="#000" ry="50" rx="50" id="svg_8" cy="408" cx="469" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <ellipse opacity="0.7" stroke="#000" ry="50" rx="50" id="svg_9" cy="408" cx="651" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <ellipse opacity="0.7" stroke="#000" ry="50" rx="50" id="svg_10" cy="576" cx="93" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <ellipse opacity="0.7" stroke="#000" ry="50" rx="50" id="svg_11" cy="576" cx="284" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <ellipse opacity="0.7" stroke="#000" ry="50" rx="50" id="svg_12" cy="576" cx="469" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <ellipse opacity="0.7" stroke="#000" ry="50" rx="50" id="svg_13" cy="576" cx="651" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <rect stroke="#000" opacity="0.7" id="svg_14" height="80" width="656" y="689" x="46" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <rect id="svg_16" height="28.000015" width="0" y="839" x="375" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#DDDDDD"/>
+  <rect stroke="#000" opacity="0.7" id="svg_17" height="30" width="656" y="805" x="46" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <rect stroke="#000" opacity="0.7" id="svg_18" height="30" width="656" y="867" x="46" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <rect stroke="#000" opacity="0.7" id="svg_19" height="30" width="656" y="927" x="46" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <rect stroke="#000" opacity="0.7" id="svg_20" height="30" width="656" y="987" x="46" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <rect stroke="#000" opacity="0.7" id="svg_21" height="30" width="656" y="1047" x="46" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <rect stroke="#000" opacity="0.7" id="svg_22" height="30" width="656" y="1107" x="46" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <rect stroke="#000" opacity="0.7" id="svg_23" height="30" width="656" y="1167" x="46" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+  <rect stroke="#000" opacity="0.7" id="svg_24" height="30" width="656" y="1227" x="46" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#DDDDDD"/>
+ </g>
+</svg>
