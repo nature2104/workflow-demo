@@ -46,7 +46,7 @@ export default {
     hlsSupportToken () {
       let vm = this
       vm.hlsPopup.showLoading()
-      let url = process.env.loginPath + 'appadmin'
+      let url = process.env.loginPath
       let param = {}
       return vm.hlsHttp.post(url, param).then(function (res) {
         window.localStorage.setItem('access_token', res.access_token)
